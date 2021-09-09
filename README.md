@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michael Rollins</h1>
-<h3 align="center">I'm a Software Engineer working in Financial Services. I have a MEng in Computer Science from the University of Bristol (2020).</h3>
+<h3 align="center">I'm a Software Engineer working in Financial Services.
 
+I have a MEng in Computer Science from the University of Bristol (2020).</h3>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelrol" alt="michaelrol" width="300px" />
 -  🔭 &nbsp;I’m currently working on [TBSE: A Multi-Threaded Financial Exchange Simulator](https://github.com/MichaelRol/Threaded-Bristol-Stock-Exchange)
 
 -  🌱 &nbsp;I’m currently learning **Go!**
@@ -35,4 +37,3 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelrol&show_icons=true&locale=en" alt="michaelrol" /></p>->
