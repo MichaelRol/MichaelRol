@@ -3,7 +3,7 @@
 
 I have a MEng in Computer Science from the University of Bristol (2020).</h3>
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelrol" alt="michaelrol" width="300px" />
--  🔭 &nbsp;I’m currently working on [TBSE: A Multi-Threaded Financial Exchange Simulator](https://github.com/MichaelRol/Threaded-Bristol-Stock-Exchange)
+-  🔭 &nbsp;My current project is [TBSE: A Multi-Threaded Financial Exchange Simulator](https://github.com/MichaelRol/Threaded-Bristol-Stock-Exchange)
 
 -  🌱 &nbsp;I’m currently learning **Go!**
 
