@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Rollins</h1>
+<h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">I'm a Software Engineer working in Financial Services.
 
 I have a MEng in Computer Science from the University of Bristol (2020).</h3>
