@@ -13,7 +13,7 @@ I have a MEng in Computer Science from the University of Bristol (2020).</h3>
 <a href="https://linkedin.com/in/michael-rollins-089199b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/MichaelRol/MichaelRol/main/images/LinkedIn.svg" alt="michael-rollins-089199b5" height="40" width="100" /></a>
 
 -  📄 &nbsp;Here is my [CV](https://github.com/MichaelRol/MichaelRol/blob/main/CV%20-%20Michael%20Rollins.pdf)
--  💡 Contrary to my "Most used Languages" section, I primarily develop Java<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a> 
+-  💡 Contrary to my "Most Used Languages" section, I work in Java<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a> 
 
 
 <h3 align="left">Languages and Tools:</h3>
